@@ -24,6 +24,12 @@ html {
     text-align: center;
 }
 
+@media (max-width: 460px) {
+    #main {
+        margin: 0;
+    }
+}
+
 #title {
     margin: 1rem 0;
 }
